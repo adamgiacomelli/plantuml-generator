@@ -2,11 +2,7 @@
 
 [![npm package][npm-img]][npm-url]
 [![Build Status][build-img]][build-url]
-[![Downloads][downloads-img]][downloads-url]
-[![Issues][issues-img]][issues-url]
-[![Code Coverage][codecov-img]][codecov-url]
-[![Commitizen Friendly][commitizen-img]][commitizen-url]
-[![Semantic Release][semantic-release-img]][semantic-release-url]
+
 
 > My awesome module
 
@@ -26,3 +22,8 @@ myPackage('hello');
 ```
 
 ## API
+
+[build-img]:https://github.com/ryansonshine/typescript-npm-package-template/actions/workflows/release.yml/badge.svg
+[build-url]:https://github.com/ryansonshine/typescript-npm-package-template/actions/workflows/release.yml
+[npm-img]:https://img.shields.io/npm/v/typescript-npm-package-template
+[npm-url]:https://www.npmjs.com/package/typescript-npm-package-template
